@@ -1,0 +1,99 @@
+body {
+    font-family: 'Itim', cursive;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    /* font-weight: bolder; */
+}
+
+.first {
+    background-color: #ac2142;
+    padding: 2% 10%;
+    /* font-weight: bolder ; */
+}
+
+.second {
+    background-color: #ffffff;
+    color: black;
+    font-family: 'Roboto Condensed';
+    padding: 7% 15%;
+
+
+}
+
+.third {
+    color: black;
+    background-color: #c01f45;
+    font-family: 'Roboto Condensed';
+    font-weight: 700px;
+    padding: 7% 15%;
+}
+
+.forth {
+    padding: 5% 15%;
+}
+
+.navbar {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.nav-item{
+    --bs-nav-link-color:#fffffff;
+}
+
+.shouting {
+    text-align: left;
+    margin-top: 30%;
+    font-weight: bolder;
+}
+
+.dude {
+    text-align: left;
+    font-weight: bolder;
+}
+
+.icon {
+    color: #ac2142;
+    padding-bottom: 2rem;
+}
+.fa-2x{
+    margin: 20px 10px;
+}
+.icon:hover {
+    color: rgb(255, 53, 86);
+}
+.hehe{
+    margin-left: 20px;
+}
+
+
+@media (max-width: 500px) {
+    .catimg {
+        width: 380px;
+        height: 430px;
+        padding-top: 2rem;
+    }
+
+    .first {
+        padding: 2% 5%;
+    }
+    
+}
+
+.pricing {
+    padding: 5%;
+    color: #ffffff;
+    font-family: "itim", cursive;
+    font-weight: bolder;
+}
+
+.white{
+    color: #ffffff;
+    
+}
+
+/* .download-button{
+    position: relative;
+    right: 100px;
+    align-items: left;
+} */
